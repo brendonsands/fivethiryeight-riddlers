@@ -1,2 +1,2 @@
 # fivethiryeight-riddlers
-Code for 538 Riddler Answers
+Python code for weekly 538 Riddler answers
